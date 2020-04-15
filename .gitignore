@@ -1,0 +1,14 @@
+node_modules/
+test/
+.idea/
+dist/
+.DS_Store
+package-lock.json
+\#*\#
+.\#*
+*.log
+*~
+*.swp
+*.swo
+.tern-port
+.tern-project.js

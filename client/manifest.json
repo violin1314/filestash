@@ -1,0 +1,11 @@
+{
+    "name": "Filestash",
+    "short_name": "Filestash",
+    "icons": [
+    ],
+    "theme_color": "#f2f3f5",
+    "background_color": "#f2f3f5",
+    "orientation": "any",
+    "display": "standalone",
+    "start_url": "/"
+}
